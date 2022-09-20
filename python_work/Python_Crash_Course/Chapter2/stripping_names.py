@@ -1,18 +1,12 @@
-name = "    Trinidad\n\t    Mario\n\t\t    Dena    "
+name = ' Trinidad '
 
 print(name)
 
-name = name.lstrip()
+print(name.lstrip())
 
-print(name)
+print(name.rstrip())
 
-name = name.rstrip()
-
-print(name)
-
-name = name.strip()
-
-print(name)
+print(name.strip())
 
 
 
