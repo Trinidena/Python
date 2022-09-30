@@ -18,4 +18,4 @@ print(guest_list)
 
 print(guest_list[0] + ' is invited')
 print(guest_list[1] + ' is invited')
-print(guest_list[2] + ' %nis invited')
+print(guest_list[2] + ' is invited')
