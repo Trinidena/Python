@@ -1,3 +1,5 @@
+#Exercise 3.3
+
 list = ['Rice' , 'Steak' , 'Fish' , 'Ramen']
 
 print('I like white ' + list[0])

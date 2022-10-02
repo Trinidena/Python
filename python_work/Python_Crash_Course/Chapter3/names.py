@@ -1,3 +1,5 @@
+#Exercise 3.1
+
 names = ['Miguel' , 'Jesus' , 'Joshua' , 'Chino']
 
 print(names[0])
