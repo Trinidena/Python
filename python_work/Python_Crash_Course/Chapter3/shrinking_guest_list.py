@@ -36,3 +36,12 @@ print(guest_list[4] + ' is invited')
 print(guest_list[5] + ' is invited')
 
 print('I can only invite two people for dinner, the table is arriving late.')
+
+uninvited_guest1 = guest_list.pop()
+print('I\'m sorry I can\'t invite you, ' + uninvited_guest1 + '.')
+uninvited_guest1 = guest_list.pop(0)
+print('I\'m sorry I can\'t invite you, ' + uninvited_guest1 + '.')
+uninvited_guest1 = guest_list.pop(1)
+print('I\'m sorry I can\'t invite you, ' + uninvited_guest1 + '.')
+uninvited_guest1 = guest_list.pop(2)
+print('I\'m sorry I can\'t invite you, ' + uninvited_guest1 + '.')
