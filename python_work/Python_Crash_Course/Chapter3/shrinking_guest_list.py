@@ -26,7 +26,7 @@ guest_list.insert(0 , 'Fabian')
 guest_list.insert(2, 'Isaac')
 guest_list.append('Ian')
 
-print(guest_list)
+print(guest_list) #
 
 print(guest_list[0] + ' is invited')
 print(guest_list[1] + ' is invited')
