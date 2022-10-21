@@ -45,3 +45,6 @@ uninvited_guest1 = guest_list.pop(1)
 print('I\'m sorry I can\'t invite you, ' + uninvited_guest1 + '.')
 uninvited_guest1 = guest_list.pop(2)
 print('I\'m sorry I can\'t invite you, ' + uninvited_guest1 + '.')
+
+print(guest_list)
+print('You are still invited, ' + guest_list[0] + ' and ' + guest_list[1])
