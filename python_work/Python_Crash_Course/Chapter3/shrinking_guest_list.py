@@ -1,4 +1,4 @@
-guest_list = []                 #Excercise 3.7
+guest_list = []                 #Excercise 3.7 Arrays
 print(guest_list)
 guest_list.append('Jesus')
 print(guest_list)
